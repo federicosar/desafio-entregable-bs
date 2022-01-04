@@ -58,17 +58,8 @@ h2{
 
 /* final de index */
 
-/* principio carousel */
-.carousel-inner {
-    background-color:rgb(61, 61, 61);
-}
-
-.carousel-inner img {
+/* principio de cards  */
+.container{
     width: 100%;
-    max-height: 460px;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    object-fit: contain;
+    background-color: #333;
 }
-/* fin carousel */
-
